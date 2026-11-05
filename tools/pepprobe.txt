@@ -1,0 +1,15 @@
+version: ok=True err=0 status=0 version=2
+register: ok=True err=0 status=0 client=0x1E08A89A
+get limit (out = 11 x u32: status, en, ?, cur mW, min mW, max mW, step, tw min, tw max, ?, ?)
+dom 0 pl 0: ok=True err=0 raw=[0 0 0 0 0 120000 90000000 0 0 120000 90000000]
+dom 0 pl 1: ok=True err=0 raw=[0 0 0 0 0 211000 10000000 0 0 211000 10000000]
+dom 0 pl 2: ok=True err=0 raw=[0 0 0 0 0 244000 8000000 0 0 244000 8000000]
+dom 0 pl 3: ok=True err=0 raw=[0 0 0 0 0 616000 10000 0 0 616000 10000]
+dom 1 pl 0: ok=True err=0 raw=[0 0 0 43000 15000000 69000 200000000 0 0 43000 15000000]
+dom 1 pl 1: ok=True err=0 raw=[0 0 0 72000 10000000 72000 10000000 0 0 72000 10000000]
+dom 1 pl 2: ok=True err=0 raw=[0 0 0 0 0 500000 10000 0 0 500000 10000]
+dom 1 pl 3: ok=True err=0 raw=[0 0 0 0 0 500000 10 0 0 500000 10]
+dom 2 pl 0: ok=True err=0 raw=[26 2 0 0 0 0 0 0 0 0 0]
+dom 2 pl 1: ok=True err=0 raw=[26 2 1 0 0 0 0 0 0 0 0]
+dom 2 pl 2: ok=True err=0 raw=[26 2 2 0 0 0 0 0 0 0 0]
+dom 2 pl 3: ok=True err=0 raw=[26 2 3 0 0 0 0 0 0 0 0]

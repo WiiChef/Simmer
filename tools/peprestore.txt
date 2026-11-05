@@ -1,0 +1,8 @@
+01:21:40 client 0x00650052 status 3
+01:21:40 PL1 now: status 24 set 0 mW/0 us, max 0 mW/0 us, effective 0 mW/0 us
+01:21:40 PL2 now: status 24 set 0 mW/0 us, max 0 mW/0 us, effective 0 mW/0 us
+01:21:40 set 54000 mW / 15000000: status 24 -> status 24 set 0 mW/0 us, max 0 mW/0 us, effective 0 mW/0 us
+01:21:41 set 54000 mW / 28000000: status 24 -> status 24 set 0 mW/0 us, max 0 mW/0 us, effective 0 mW/0 us
+01:21:43 set 4294967295 mW / 4294967295: status 24 -> status 24 set 0 mW/0 us, max 0 mW/0 us, effective 0 mW/0 us
+01:21:44 set 54000 mW / 4294967295: status 24 -> status 24 set 0 mW/0 us, max 0 mW/0 us, effective 0 mW/0 us
+01:21:46 set 4294967295 mW / 15000000: status 24 -> status 24 set 0 mW/0 us, max 0 mW/0 us, effective 0 mW/0 us

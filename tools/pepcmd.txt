@@ -1,0 +1,11 @@
+01:22:41.929 ver: ok=True err=0 bytes=8 out=[0 2]
+01:22:41.957 reg PC1: ok=True err=0 bytes=8 out=[3 49]
+01:22:41.957 using client 0x1E08A89A
+01:22:41.959 get 1:0: ok=True err=0 bytes=44 out=[0 0 0 10000 28000000 69000 200000000 0 0 10000 28000000]
+01:22:41.959 unreg 1E08A89A: ok=False err=122 bytes=0 out=[--]
+01:22:41.959 reg PC2: ok=True err=0 bytes=8 out=[3 50]
+01:22:41.959 get 1:0: ok=True err=0 bytes=44 out=[0 0 0 10000 28000000 69000 200000000 0 0 10000 28000000]
+01:22:41.959 set 1:0:54000:15000000: ok=True err=0 bytes=4 out=[36]
+01:22:41.959 get 1:0: ok=True err=0 bytes=44 out=[0 54000 15000000 10000 28000000 69000 200000000 0 0 10000 28000000]
+01:22:41.959 set 1:0:none:none: ok=True err=0 bytes=4 out=[0]
+01:22:41.959 get 1:0: ok=True err=0 bytes=44 out=[0 4294967295 4294967295 22000 15000000 69000 200000000 0 0 22000 15000000]

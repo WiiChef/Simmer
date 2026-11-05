@@ -1,0 +1,37 @@
+# build output and stale copies
+*.exe
+*.pdb
+*.bak
+
+# logs and telemetry
+*.log
+logs/
+tools/logs/
+
+# per-machine settings written at runtime
+charge.limit
+default.slot
+fan.curve
+pep.client
+simmer.json
+simmer.pending.json
+simmer.lastboot
+profiles.json
+quiet.battery
+simple.view
+slot.bindings
+data.path
+*.request
+tools/powercap.json
+tools/learned.json
+
+# v1 PowerShell prototype
+powercap.ps1
+powercap-ui.ps1
+powercap-ui.cmd
+*.sys
+tools/BmdDrain/build/
+tools/BmdDrain/drain.log
+tools/BmdDrain/drain.csv
+tools/BmdDrain/stop.request
+burst.window

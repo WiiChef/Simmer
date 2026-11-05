@@ -1,0 +1,11 @@
+01:26:05.311 using client 0x12345678
+01:26:05.329 get 1:0: ok=True err=0 bytes=44 out=[24 1 0 0 0 0 0 0 0 0 0]
+01:26:05.329 set 1:0:none:none: ok=True err=0 bytes=4 out=[24]
+01:26:05.329 ver: ok=True err=0 bytes=8 out=[0 2]
+01:26:05.329 unregx unregx:1E08A89A:4:8: ok=False err=122 bytes=0 out=[-- --]
+01:26:05.329 unregx unregx:1E08A89A:8:4: ok=False err=122 bytes=0 out=[--]
+01:26:05.329 unregx unregx:1E08A89A:8:8: ok=False err=122 bytes=0 out=[-- --]
+01:26:05.329 unregx unregx:1E08A89A:36:8: ok=False err=122 bytes=0 out=[-- --]
+01:26:05.329 reg PowerCap: ok=True err=0 bytes=8 out=[3 6619255]
+01:26:05.329 using client 0x1E08A89A
+01:26:05.329 get 1:0: ok=True err=0 bytes=44 out=[0 4294967295 4294967295 22000 15000000 69000 200000000 0 0 22000 15000000]
